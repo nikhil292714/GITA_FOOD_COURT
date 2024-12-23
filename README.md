@@ -14,3 +14,16 @@ The architectural design and ambiance of the food court are meticulously planned
 The project integrates experiential dining concepts to captivate visitors' senses and imagination. Live cooking demonstrations, culinary festivals, and collaborations with renowned chefs are part of the food court's regular offerings, elevating the dining experience beyond mere sustenance to a captivating journey of culinary exploration.
 
 This project presents a forward-thinking food court project that aims to set a new standard for communal dining spaces. By emphasizing culinary diversity, sustainability, technology integration, and immersive dining experiences, the project endeavors to create a culinary destination that not only satisfies appetites but also celebrates the joy of food and the spirit of gathering.
+
+
+#Screenshots
+
+![Screenshot (58)](https://github.com/user-attachments/assets/43e07f5a-066b-4b20-82e4-5bbaae32a490)
+
+
+
+![Screenshot (59)](https://github.com/user-attachments/assets/7e6443f2-80ce-490b-812e-32e97ba40697)
+
+
+
+![Screenshot (61)](https://github.com/user-attachments/assets/8f5be51b-890e-47fb-acb9-4b3f515ba230)
