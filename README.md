@@ -1,4 +1,4 @@
-###GITA FOOD COURT
+#GITA FOOD COURT
 
 
 This “GITA FOOD COURT” project provides an overview of an ambitious food court project designed to create a dynamic and unique culinary destination. The project showcases innovative concepts and strategies aimed at redefining the traditional food court experience, offering a glimpse into the future of communal dining spaces.
